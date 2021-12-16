@@ -1,4 +1,34 @@
 table, th, td {
-    border: 1px solid black;
     border-collapse: collapse;
+    width: 300px;
   }
+
+body{
+    background-image: url(../IMG/hatter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+header{
+    background-image: url(../IMG/fejlec.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    margin-bottom: 50px;
+    color: red;
+    text-align: center;
+    font-size: 800%;
+    
+}
+
+img{
+    min-height: 100%;
+}
+
+.fcim{
+    font-size: 200%;
+}
+
